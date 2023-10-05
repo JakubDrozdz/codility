@@ -1,6 +1,6 @@
 package lesson;
 
-public class Lesson03 {
+public class Lesson02b {
     public static void main(String[] args) {
         System.out.println(solution(new int[]{9,3,9,3,9,7,9}));
     }

@@ -1,6 +1,6 @@
 package lesson;
 
-public class Lesson02 {
+public class Lesson02a {
     public static void main(String[] args) {
         for (int x : solution(new int[]{3,8,9,7,6}, 3)) {
             System.out.print(x + " ");
